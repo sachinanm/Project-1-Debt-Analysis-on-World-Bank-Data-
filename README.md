@@ -27,5 +27,5 @@ Few deductions from analysis:
 China has taken the most amount of loan (1520 billion US dollars) from the world bank and a large chunk of its loan is under debt service on external debt, long term(TDS, current US$).
 There are a total of 27 debt indicators in which all the countries listed in our dataset have taken debt. This indicates that all these countries are suffering from some common economic issues.
 
-#Power Bi
+# Power Bi
  [Power Bi visualiztion](https://github.com/sachinanm/Project-1-Debt-Analysis-on-World-Bank-Data-/blob/main/Debt%20Analysis%20Power%20BI%20report%20.png)
